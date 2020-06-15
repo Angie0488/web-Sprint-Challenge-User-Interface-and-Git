@@ -83,6 +83,15 @@ p {
     color: black;
 }
 
+.navigation nav a:hover {
+    background: black;
+    color: white;
+    border: 1px solid black;
+    padding: 2%;
+    font-size: 1.6rem;
+}
+
+
 .about  {
     padding: 2.5%;
     border-bottom: 1px dashed black;

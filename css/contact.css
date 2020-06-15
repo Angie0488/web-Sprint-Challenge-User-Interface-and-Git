@@ -84,6 +84,15 @@ p {
     color: black;
 }
 
+.container nav a:hover {
+    background: black;
+    color: white;
+    border: 1px solid black;
+    padding: 2%;
+    font-size: 1.6rem;
+}
+
+
 h1 {
     font-size: 3.5rem;
     display: flex;
