@@ -83,6 +83,11 @@ p {
     color: black;
 }
 
+.navigation nav a:hover {
+    background: black;
+    color: white;
+}
+
 .navigation img {
     margin-bottom: 5%;
 }
